@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Manuelgj29/Manuelgj29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📊 GitHub Stats & Activity</h2>
+<hr/>
 
-Here are some ideas to get you started:
+<!-- Prima riga: Statistiche e Linguaggi affiancati -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Manuelgj29&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelgj29&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Seconda riga: Streak e Activity Graph -->
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats-phi.vercel.app/?user=Manuelgj29&theme=dark&hide_border=true" alt="Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manuelgj29&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+  <h3>My skills</h3>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vim,neovim,bash,clion,pycharm,unity,idea" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,c#,python,html,css,javascript,react,angular,astro,node,npm" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,cs,python,html,css,javascript,react,angular,astro,nodejs,npm" />
+  </a>
+</p>
